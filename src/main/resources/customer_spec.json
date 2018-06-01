@@ -1,0 +1,55 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "customers": {
+        "*": {
+          "name": "BatchItemRequest[&1].GivenName",
+          "operation": "create"
+        }
+      }
+    }
+  }
+]
+
+{
+  "BatchItemRequest": [{
+    "bId": "bid1",
+    "operation": "create",
+    "Customer": {
+      "DisplayName": "ASHOK ENTERPRISEttttttt",
+      "FamilyName": "ASHO",
+      "BillAddr": {
+        "Line1": "#12/1, 4th Cross, NIRMAL NIVAS",
+        "City": "Bangalore",
+        "CountryCode": "INDIA",
+        "PostalCode": "560009"
+      },
+      "PrimaryPhone": {
+        "FreeFormNumber": "0"
+      },
+      "PrimaryEmailAddr": {
+        "Address": null
+      }
+    }
+  }, {
+    "bId": "bid2",
+    "operation": "create",
+    "Customer": {
+      "DisplayName": "ASHOK ENTERPRISEttttttteswarw",
+      "FamilyName": "ASHO",
+      "BillAddr": {
+        "Line1": "#12/1, 4th Cross, NIRMAL NIVAS",
+        "City": "Bangalore",
+        "CountryCode": "INDIA",
+        "PostalCode": "560009"
+      },
+      "PrimaryPhone": {
+        "FreeFormNumber": "0"
+      },
+      "PrimaryEmailAddr": {
+        "Address": null
+      }
+    }
+  }]
+}

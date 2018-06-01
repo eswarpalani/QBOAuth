@@ -1,0 +1,99 @@
+{
+  "customers": [
+    {
+      "custId": 50000000427,
+      "name": "SONAL",
+      "shortName": " ",
+      "acType": 1,
+      "address1": "0",
+      "address2": ".",
+      "city": ".",
+      "pinCode": "0",
+      "phoneNo": "9820436862",
+      "creditLimit": 0,
+      "creditDays": 0,
+      "email": null,
+      "status": "A",
+      "panNo": " ",
+      "timestamp": "20170712140214",
+      "gstInfo": {
+        "stateCode": 0,
+        "gstNo": " ",
+        "aadharNo": " ",
+        "isExempted": 0,
+        "exemptedType": " ",
+        "locationType": 0,
+        "gstRegisterType": 2
+      },
+      "vatInfo": {
+        "stNo": " ",
+        "cstNo": " ",
+        "tinNo": " "
+      },
+      "parentAcc": {
+        "ledgerName": null,
+        "parentId": null,
+        "groupName": null,
+        "address": null
+      },
+      "currencyInfo": {
+        "ledgerCurrencyId": 1,
+        "curName": "INDIAN RUPEE",
+        "country": "INDIA",
+        "symbol": "INR",
+        "symbolDesc": "INR",
+        "shortName": "INR"
+      }
+    },
+    {
+      "custId": 50000000427,
+      "name": "SONAL",
+      "shortName": " ",
+      "acType": 1,
+      "address1": "0",
+      "address2": ".",
+      "city": ".",
+      "pinCode": "0",
+      "phoneNo": "9820436862",
+      "creditLimit": 0,
+      "creditDays": 0,
+      "email": null,
+      "status": "A",
+      "panNo": " ",
+      "timestamp": "20170712140214",
+      "gstInfo": {
+        "stateCode": 0,
+        "gstNo": " ",
+        "aadharNo": " ",
+        "isExempted": 0,
+        "exemptedType": " ",
+        "locationType": 0,
+        "gstRegisterType": 2
+      },
+      "vatInfo": {
+        "stNo": " ",
+        "cstNo": " ",
+        "tinNo": " "
+      },
+      "parentAcc": {
+        "ledgerName": null,
+        "parentId": null,
+        "groupName": null,
+        "address": null
+      },
+      "currencyInfo": {
+        "ledgerCurrencyId": 1,
+        "curName": "INDIAN RUPEE",
+        "country": "INDIA",
+        "symbol": "INR",
+        "symbolDesc": "INR",
+        "shortName": "INR"
+      }
+    }
+  ],
+  "count": 50,
+  "total_records": 2093,
+  "current_page": 1,
+  "per_page": 50,
+  "total_pages": 42
+}
